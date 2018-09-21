@@ -6,5 +6,13 @@ This is a repository for associated documents for the "Accessibility in Word - A
 2. [FINAL EXAMPLE: Accessibility in Word](../../raw/master/docs/Accessibility-in-Word-FINAL.docx)
 
 <div id="hands-on">
-<a href="../../raw/master/docs/Accessibility-in-Word-FINAL.docx" class="button">Download Exercise File</a>
+  <a href="../../raw/master/docs/Accessibility-in-Word-ORIGINAL.docx" class="button">
+    <small>Download</small>
+    Exercise File
+  </a>
+  &nbsp;  
+  <a href="../../raw/master/docs/Accessibility-in-Word-FINAL.docx" class="button">
+    <small>Download</small>
+    Sample Finished File
+  </a>
 </div>
