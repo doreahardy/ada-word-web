@@ -5,6 +5,6 @@ This is a repository for associated documents for the "Accessibility in Word - A
 1. [ORIGINAL: Accessibility in Word exercise File](../../raw/master/docs/Accessibility-in-Word-ORIGINAL.docx)
 2. [FINAL EXAMPLE: Accessibility in Word](../../raw/master/docs/Accessibility-in-Word-FINAL.docx)
 
-<aside id="sidebar">
-<a href="../../raw/master/docs/Accessibility-in-Word-FINAL.docx" class="button">Test Link</a>
-</aside>
+<div id="hands-on">
+<a href="../../raw/master/docs/Accessibility-in-Word-FINAL.docx" class="button">Download Exercise File</a>
+</div>
