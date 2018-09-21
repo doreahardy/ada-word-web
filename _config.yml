@@ -1,1 +1,13 @@
+title: Accessibility in Word - A Foundation for Web Content
+author: doreahardy
+email: dorea.hardy@asurams.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Documents for the hands-on portion of the training titled
+  "Accessibility in Word - A Foundation for Web Content"
+  
+# social links
+github_username:  doreahardy
+
+show_excerpts: false # set to false to remove excerpts on the homepage
+
 theme: jekyll-theme-tactile
