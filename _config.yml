@@ -1,13 +1,13 @@
 title: Accessibility in Word
-author: doreahardy
-email: dorea.hardy@asurams.edu
+#author: doreahardy
+#email: dorea.hardy@asurams.edu
 description: Documents for hands-on training
-show_downloads: true
+show_downloads: false
   
 # social links
-github_username:  doreahardy
+#github_username:  doreahardy
 
-show_excerpts: false # set to false to remove excerpts on the homepage
+#show_excerpts: false # set to false to remove excerpts on the homepage
 
 #theme: jekyll-theme-tactile
 theme: jekyll-theme-architect
